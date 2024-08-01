@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://DOMAIN:PORT/DATABASE
+spring.datasource.username=USERNAME
+spring.datasource.password=PASSWORD
+server.port=5000
